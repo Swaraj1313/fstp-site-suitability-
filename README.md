@@ -16,3 +16,11 @@ This project develops a constraint-based geospatial model to identify feasible s
 | Road Overlay | ![](outputs/Cell_12_sites_with_roads_overlay.png) | Evaluates proximity of sites to transport network |
 | Filtered Sites | ![](outputs/Cell_13_final_sites_filtered.png) | Applies accessibility constraint (≤1200m from roads) |
 | Final Candidate Sites | ![](outputs/Cell_14_final_fstp_sites.png) | Final recommended locations for FSTP development |
+
+
+
+### Geospatial Output
+- `fstp_sites.geojson` → Can be opened in QGIS / GIS tools
+
+### Coordinates
+- CSV file containing site-wise latitude and longitude for validation in Google Maps
