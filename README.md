@@ -4,7 +4,7 @@ This project develops a constraint-based geospatial model to identify feasible s
 ## Analytical Workflow and Outputs
 
 | Step | Output | Purpose |
-|------|------|--------|
+|------|--------|--------|
 | Road Network Extraction | ![](outputs/Cell_3_road_network.png) | Captures transport infrastructure used to assess accessibility of candidate sites |
 | District Boundary Validation | ![](outputs/Cell_4_district_boundary.png) | Ensures all analysis is spatially aligned with administrative boundaries |
 | Water Bodies Mapping | ![](outputs/Cell_6_water_bodies.png) | Identifies environmentally sensitive zones |
@@ -16,7 +16,6 @@ This project develops a constraint-based geospatial model to identify feasible s
 | Road Overlay | ![](outputs/Cell_12_sites_with_roads_overlay.png) | Evaluates proximity of sites to transport network |
 | Filtered Sites | ![](outputs/Cell_13_final_sites_filtered.png) | Applies accessibility constraint (≤1200m from roads) |
 | Final Candidate Sites | ![](outputs/Cell_14_final_fstp_sites.png) | Final recommended locations for FSTP development |
-
 
 
 ### Geospatial Output
