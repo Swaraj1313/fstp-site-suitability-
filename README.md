@@ -8,12 +8,12 @@
 
 This work implements a **reproducible, open-data geospatial pipeline** for identifying technically feasible land parcels suitable for Fecal Sludge Treatment Plant (FSTP) construction — with Tikamgarh district, Madhya Pradesh as the study area. Rather than treating site selection as a simple land availability problem, the pipeline operationalises a multiple layered constraint model — systematically screening candidate land against regulatory and environmental thresholds: proximity to water bodies, separation from human settlements, and accessibility via the road network. Each layer reflects a real-world institutional or operational requirement that any public infrastructure investment must satisfy. The framework is district-agnostic and generalises beyond FSTP siting to any context where infrastructure placement must navigate overlapping land-use constraints.
 
-### scroll down for images.
+
 
 The methodology mirrors the spatial siting criteria used in sanitation infrastructure planning under urban WASH programmes (as referenced in World Bank, and CPHEEO guidelines), and is fully automatable across any Indian district boundary available on OpenStreetMap.
 
 Using open access gepspatial data, this pipeline pulls **live, queryable OSM data** — road networks, water features, and built-up areas — and applies a **multi-layer exclusion model** to systematically rule out unsuitable land for criterion like distance from water bodies and habitation before finalising shortlisted candidate sites.
-
+### scroll down for images.
 ---
 
 ## Methodology
