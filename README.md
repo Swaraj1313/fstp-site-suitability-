@@ -115,37 +115,37 @@ Any district with OSM coverage will work. Buffer distances and area thresholds c
 ### Coordinates
 - CSV file containing site-wise latitude and longitude for validation in Google Maps
 
-- ## Project Workflow (Step-by-Step Outputs)
+## Project Workflow (Step-by-Step Outputs)
 
 ### Road Network
-![Road Network](outputs/Cell_3_road_network.png)
+![Road Network](fstp-site-suitability/outputs/Cell_3_road_network.png)
 
 ### District Boundaries
-![District Boundary](outputs/Cell_4_district_boundary.png)
+![District Boundary](fstp-site-suitability/outputs/Cell_4_district_boundary.png)
 
 ### Water Bodies
-![Water Bodies](outputs/Cell_6_water_bodies.png)
+![Water Bodies](fstp-site-suitability/outputs/Cell_6_water_bodies.png)
 
 ### Water Buffer
-![Water Buffer](outputs/Cell_7_water_buffer.png)
+![Water Buffer](fstp-site-suitability/outputs/Cell_7_water_buffer.png)
 
 ### Settlement Buffer
-![Settlement Buffer](outputs/Cell_8_settlement_buffer.png)
+![Settlement Buffer](fstp-site-suitability/outputs/Cell_8_settlement_buffer.png)
 
 ### Combined Exclusion Zones
-![Exclusion](outputs/Cell_9_combined_exclusion.png)
+![Exclusion](fstp-site-suitability/outputs/Cell_9_combined_exclusion.png)
 
 ### Suitable Land
-![Suitable Land](outputs/Cell_10_suitable_land.png)
+![Suitable Land](fstp-site-suitability/outputs/Cell_10_suitable_land.png)
 
 ### Candidate Sites (Raw)
-![Candidate Sites](outputs/Cell_11_candidate_sites_raw.png)
+![Candidate Sites](fstp-site-suitability/outputs/Cell_11_candidate_sites_raw.png)
 
 ### Sites with Road Overlay
-![Sites Roads](outputs/Cell_12_sites_with_roads_overlay.png)
+![Sites Roads](fstp-site-suitability/outputs/Cell_12_sites_with_roads_overlay.png)
 
 ### Filtered Sites
-![Filtered Sites](outputs/Cell_13_final_sites_filtered.png)
+![Filtered Sites](fstp-site-suitability/outputs/Cell_13_final_sites_filtered.png)
 
 ### Final FSTP Sites
-![Final Sites](outputs/Cell_14_final_fstp_sites.png)
+![Final Sites](fstp-site-suitability/outputs/Cell_14_final_fstp_sites.png)
